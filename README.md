@@ -1,2 +1,2 @@
 # DevOps
-Repositories for DevOps Projects 
+Personal DevOps Projects 
